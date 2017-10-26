@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<settings>
+    <option>
+        <id>1</id>
+        <nombre>Manolito</nombre>
+        <dificultad>1</dificultad>
+        <modeloNave>1</modeloNave>
+        <modeloLuna>1</modeloLuna>
+    </option>
+    <option>
+        <id>2</id>
+        <nombre>Pablito</nombre>
+        <dificultad>2</dificultad>
+        <modeloNave>2</modeloNave>
+        <modeloLuna>1</modeloLuna>
+    </option>
+</settings>
